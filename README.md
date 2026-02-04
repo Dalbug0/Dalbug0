@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Кто я  
+Студент Барановичского государственного университета, специальность — инженер-программист. Активно развиваюсь в Backend-разработке, создаю pet-проекты для углубления навыков.
 
+### 🛠️ Над чем работаю  
+Сейчас развиваю проект **[Job Aggregator](https://github.com/Dalbug0/job_aggregator)** — веб-сервис для агрегации вакансий с использованием современных технологий и подходов к разработке.
+
+### 🧰 Инструменты и технологии  
+- **Язык:** Python  
+- **Фреймворк:** FastAPI  
+- **Базы данных:** PostgreSQL, SQLAlchemy  
+- **Валидация:** Pydantic  
+- **Тестирование:** pytest  
+- **Контейнеризация:** Docker, Docker Compose  
+
+### 📫 Как связаться  
+- **Email:** pinsk.m.alibaba@gmail.com  
+- **LinkedIn:** in/oleg-sidoruk-935069380
+- **Telegram:** https://t.me/Dalbug
 <!--
-**Dalbug0/Dalbug0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Резюме:** [ссылка на резюме, если есть]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
