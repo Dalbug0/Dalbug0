@@ -14,7 +14,7 @@
 
 ### 📫 Как связаться  
 - **Email:** pinsk.m.alibaba@gmail.com  
-- **LinkedIn:** in/oleg-sidoruk-935069380
+- **LinkedIn:** [in/oleg-sidoruk-935069380](https://www.linkedin.com/in/oleg-sidoruk-935069380)
 - **Telegram:** https://t.me/Dalbug
 <!--
 - **Резюме:** [ссылка на резюме, если есть]
