@@ -7,7 +7,8 @@
 ### 🧰 Инструменты и технологии  
 - **Язык:** Python  
 - **Фреймворк:** FastAPI  
-- **Базы данных:** PostgreSQL, SQLAlchemy  
+- **Базы данных:** PostgreSQL
+- **ORM:** SQLAlchemy
 - **Валидация:** Pydantic  
 - **Тестирование:** pytest  
 - **Контейнеризация:** Docker, Docker Compose  
