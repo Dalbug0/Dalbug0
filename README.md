@@ -7,7 +7,7 @@
 *Currently, I am developing **[Job Aggregator](https://github.com/Dalbug0/job_aggregator)** – a web service for job vacancy aggregation using modern technologies and development approaches.*
 
 ### 🧰 Инструменты и технологии | Tools & Technologies  
-- **Язык | Language:** Python  
+- **Язык | Language:** Python 3.13
 - **Фреймворк | Framework:** FastAPI  
 - **База данных | Database:** PostgreSQL  
 - **ORM:** SQLAlchemy  
